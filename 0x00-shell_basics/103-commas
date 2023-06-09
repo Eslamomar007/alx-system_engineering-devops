@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -atmf
+ls -Fatm
