@@ -2,3 +2,4 @@
 chmod u+x /alx-system_engineering-devops/0x01-shell_permissions/*
 git add .
 git commit -m "done" 
+git push 
